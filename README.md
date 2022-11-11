@@ -1,6 +1,14 @@
 # CompiPanas
 Inspirado por los gatitos panas.
 
+# Enlaces a videos en Youtube
+
+## GCD en MIPS
+https://youtu.be/wAFZatz4bvg 
+
+## Traducción de operaciones aritméticas
+https://youtu.be/R08GlQDlD38
+
 # Instrucciones
 
     python3 pana_compiler.py test_files/archivo
